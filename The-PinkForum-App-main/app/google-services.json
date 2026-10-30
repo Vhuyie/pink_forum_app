@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619777107204",
+    "project_id": "the-pinkforum",
+    "storage_bucket": "the-pinkforum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619777107204:android:fd2404b4d2120850c4dc51",
+        "android_client_info": {
+          "package_name": "com.example.thepinkforum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpsziQymV_bgR7oLb5Fc0inAVJYJN9ihE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
